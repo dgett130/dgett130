@@ -1,5 +1,5 @@
 <h1 align='center'> 
-  Ciao! Mi chiamo Diego😄! 
+  Ciao, benvenuto sul profilo di dgett130! 🧑‍💻
 </h1>
 
 <div align="center" markdown="1">
