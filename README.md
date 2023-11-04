@@ -70,7 +70,7 @@
 </h3>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/kylianmeulin">
-    <img align="center" src="https://img.shields.io/badge/-kylianmeulin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-gettatelli-83663915b/" />
+  <a href="https://www.linkedin.com/in/diego-gettatelli-83663915b/">
+    <img align="center" src="https://img.shields.io/badge/-Diego Gettatelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-gettatelli-83663915b/" />
   </a>
 </p>
