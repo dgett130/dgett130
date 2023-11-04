@@ -41,6 +41,7 @@
 </h3>
 
 <p align='center'>
+  
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
 </p>
 
@@ -62,4 +63,14 @@
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <!-- <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF?logo=docker&logoColor=blue"></a> -->
+</p>
+
+<h3 align='center'> 
+🌐 Contatti / Social
+</h3>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/kylianmeulin">
+    <img align="center" src="https://img.shields.io/badge/-kylianmeulin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-gettatelli-83663915b/" />
+  </a>
 </p>
