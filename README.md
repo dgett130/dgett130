@@ -9,3 +9,13 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
 
 </div>
+
+<h2 align='center'> 
+  📜 Most used languages
+</h2>
+    
+<p align='center'>
+  <a href="https://github.com/dgett130">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgett130&layout=compact&show_icons=true&theme=radical" />
+  </a>
+</p>
