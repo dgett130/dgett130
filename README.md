@@ -91,8 +91,11 @@
   </a>
 </p>
 
-<div>
-  
-![Visitor Count](https://profile-counter.glitch.me/dgett130/count.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-</div>
+<!-- <div>
+  
+Visitor Counter: ![Visitor Count](https://profile-counter.glitch.me/dgett130/count.svg)
+
+</div> -->
