@@ -41,7 +41,6 @@
 </h3>
 
 <p align='center'>
-  
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
 </p>
 
