@@ -9,9 +9,13 @@
 <!-- <img src="https://img.shields.io/badge/Software_Developer-Alfameg-blue" alt="Alfameg Badge" /> -->
 <!-- <img src="https://img.shields.io/badge/Alfameg_-Alfameg?label=%20Software%20Developer&color=blue&link=https%3A%2F%2Fwww.alfameg.com%2F" alt="Alfameg Badge"/> -->
 <img src="https://img.shields.io/badge/Alfameg-Alfameg?style=for-the-badge&label=Software%20Developer&color=blue&link=https%3A%2F%2Fwww.alfameg.com%2F" alt="Alfameg Badge"/>
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
+</div>
 
+<div align="center">
+  
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  
 </div>
 
 <h2 align='center'> 
