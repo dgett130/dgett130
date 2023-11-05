@@ -20,7 +20,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: Binary JSON YAML XML
-          COMMIT-MESSAGE: "Updated waka-readme graph with new metrics"
+          COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
           TARGET_BRANCH: master
           COMMITTER_NAME: "Waka-Workflow"
           AUTHOR_NAME: "Waka-Workflow"
