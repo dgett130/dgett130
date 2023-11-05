@@ -91,6 +91,7 @@
   </a>
 </p>
 
+---
 <details>
 <summary><h3>Alcune Statistiche 🤓🤖</h3></summary>
   <p>La sezione viene aggiornata in automatico ogni giorno alle 00:00</p>
