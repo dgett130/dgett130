@@ -91,7 +91,11 @@
   </a>
 </p>
 
-<!--START_SECTION:waka-->
+<details>
+<summary>Alcune Statistiche 🤓🤖</summary>
+  <p>La sezione viene aggiornata in automatico ogni giorno alle 00:00</p>
+
+  <!--START_SECTION:waka-->
 
 ```txt
 JavaScript       1 hr 8 mins     █████████████████▒░░░░░░░   69.44 %
@@ -102,6 +106,8 @@ Bash             2 mins          ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+  
+</details>
 
 <!-- <div>
   
