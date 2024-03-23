@@ -101,13 +101,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 284 hrs 41 mins
+Total Time: 290 hrs 5 mins
 
-Java                          190 hrs 53 mins ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   66.25 %
-JavaScript                    26 hrs 48 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.31 %
-XML                           20 hrs 8 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.99 %
-SQL                           11 hrs 1 min    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.83 %
-HTML                          6 hrs 20 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.20 %
+Java                          191 hrs 44 mins ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   65.32 %
+JavaScript                    26 hrs 53 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.16 %
+XML                           20 hrs 9 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.87 %
+SQL                           11 hrs 1 min    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.75 %
+HTML                          8 hrs 34 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.92 %
 ```
 
 <!--END_SECTION:waka-->
