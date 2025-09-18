@@ -21,16 +21,6 @@
 -->
 
 <h2 align='center'> 
-  📜 Linguaggi più usati
-</h2>
-    
-<p align='center'>
-  <a href="https://github.com/dgett130">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgett130&layout=compact&show_icons=true&theme=radical" />
-  </a>
-</p>
-
-<h2 align='center'> 
   🛠️ My favorite tools
 </h2>
 
